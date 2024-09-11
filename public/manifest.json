@@ -1,7 +1,7 @@
 {
-    "name": "Study Notion",
+    "name": "Course Fusion",
     "id": "/",
-    "short_name": "Study Notion",
+    "short_name": "Course Fusion",
     "description": "An Ed Tech Web App for Students and Instructors",
     "start_url": "/",
     "display": "standalone",
